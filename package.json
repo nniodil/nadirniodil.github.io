@@ -10,7 +10,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^3.2.2",
-    "host": "^0.0.1"
+    "astro": "^4.5.16"
   }
 }
