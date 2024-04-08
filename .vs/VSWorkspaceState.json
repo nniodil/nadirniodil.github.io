@@ -5,6 +5,6 @@
     "\\.github\\workflows",
     "\\src"
   ],
-  "SelectedNode": "\\.github\\workflows\\deploy.yml",
+  "SelectedNode": "\\astro.config.mjs",
   "PreviewInSolutionExplorer": false
 }
