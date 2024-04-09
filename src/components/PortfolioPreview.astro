@@ -8,9 +8,9 @@ interface Props {
 const { data, slug } = Astro.props.project;
 ---
 
-<a class="card" href={``}>
+<a class="card" href={`nadirniodil.github.io/work/${slug}`}>
 	<span class="title">{data.title}</span>
-	<img src= alt={data.img_alt || ''} loading="lazy" decoding="async" />
+	<img src="/nadirniodil.github.io/assets/Brick-breaker.jpg" alt={data.img_alt || "/nadirniodil.github.io/assets/Platform-2D-game.jpg"} loading="lazy" decoding="async" />
 </a>
 
 <style>
