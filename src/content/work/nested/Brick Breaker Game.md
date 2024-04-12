@@ -7,7 +7,7 @@ description: |
 tags:
   - #Game
   - #Unity
-  - #2D
+
   
 ---
 Ceci est le premier jeu que j'ai créer sous Unity. Cela ma permis de faire connaissance avec le langage C# et le moteur Unity. 
