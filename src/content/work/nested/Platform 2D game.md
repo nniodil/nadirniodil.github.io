@@ -5,9 +5,9 @@ img: /nadirniodil.github.io/assets/Platform-2D-game.jpg
 description: |
   
 tags:
-- #Game
-- #Unity
-- #2D
+ - #Game
+ - #Unity
+  
   
 ---
 
