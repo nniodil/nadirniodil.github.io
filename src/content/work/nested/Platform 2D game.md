@@ -5,8 +5,9 @@ img: /nadirniodil.github.io/assets/Platform-2D-game.jpg
 description: |
   
 tags:
-  - Level Design
-  - Game Developement
+- #Game
+- #Unity
+- #2D
   
 ---
 
