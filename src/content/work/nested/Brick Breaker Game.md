@@ -5,8 +5,9 @@ img: /nadirniodil.github.io/assets/Brick-breaker.jpg
 description: |
  
 tags:
-  - #Game
-  - #Unity
+  - Game
+  - Unity
+  - 2D
 
   
 ---
