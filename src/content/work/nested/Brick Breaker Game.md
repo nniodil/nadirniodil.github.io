@@ -5,8 +5,9 @@ img: /nadirniodil.github.io/assets/Brick-breaker.jpg
 description: |
  
 tags:
-  - Level Design
-  - Game Developement
+  - #Game
+  - #Unity
+  - #2D
   
 ---
 Ceci est le premier jeu que j'ai créer sous Unity. Cela ma permis de faire connaissance avec le langage C# et le moteur Unity. 
