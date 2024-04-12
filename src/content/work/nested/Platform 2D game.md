@@ -8,7 +8,6 @@ tags:
  - #Game
  - #Unity
   
-  
 ---
 
 Ceci est le deuxième jeu que j'ai créer, Ce développement m'a permis passer à un niveau supérieur en Level design et en Gameplay Programming.
