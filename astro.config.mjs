@@ -1,6 +1,6 @@
 import { defineConfig } from 'astro/config'
 
 export default defineConfig({
-  site: "https://nadirniodil.com/",
+  site: "https://fasixz.github.io/",
   base: "/nadirniodil.github.io/"
 })
