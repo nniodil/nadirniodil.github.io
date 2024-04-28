@@ -4,9 +4,9 @@ publishDate: 2023-10-02 00:00:00
 img: /nadirniodil.github.io/assets/Brick-breaker.jpg
 description: |
 
-<p>Personal Project <br> Duration : 3 days </p>
 
 ---
+<p>Personal Project <br> Duration : 3 days </p>
 Ceci est le premier jeu que j'ai créer sous Unity. Cela ma permis de faire connaissance avec le langage C# et le moteur Unity. 
 <br>
 </br>
