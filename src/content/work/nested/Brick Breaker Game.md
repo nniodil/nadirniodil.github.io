@@ -4,7 +4,10 @@ publishDate: 2023-10-02 00:00:00
 img: /nadirniodil.github.io/assets/Brick-breaker.jpg
 description: |
 
-
+tags:
+  - Level Design
+  - Game Developement
+  
 ---
 Personal Project
 Duration : 3 days 
