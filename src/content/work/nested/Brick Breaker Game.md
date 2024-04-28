@@ -9,9 +9,9 @@ tags:
   - Game Developement
   
 ---
-Personal Project
-Duration : 3 days 
-Ceci est le premier jeu que j'ai créer sous Unity.
-Cela ma permis de faire connaissance avec le langage C# et le moteur Unity.
+Personal Project/
+Duration : 3 days /
+Ceci est le premier jeu que j'ai créer sous Unity./
+Cela ma permis de faire connaissance avec le langage C# et le moteur Unity./
 Voici une Demo :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SZH8ALFxjts?si=J_Lhazrrh-RH6Cdx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
