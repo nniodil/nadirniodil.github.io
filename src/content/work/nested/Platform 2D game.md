@@ -4,11 +4,6 @@ publishDate: 2023-10-02 00:00:00
 img: /nadirniodil.github.io/assets/Platform-2D-game.jpg
 description: |
   
-tags:
- - Game
- - Unity
- - 2D
-  
 ---
 
 Ceci est le deuxième jeu que j'ai créer, Ce développement m'a permis passer à un niveau supérieur en Level design et en Gameplay Programming.
