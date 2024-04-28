@@ -5,7 +5,12 @@ img: /nadirniodil.github.io/assets/Platform-2D-game.jpg
 description: |
   
 ---
+Personal Project
+Duration : 7 days
 
-Ceci est le deuxième jeu que j'ai créer, Ce développement m'a permis passer à un niveau supérieur en Level design et en Gameplay Programming.
-Voici une demo :
+This is a 2D platform inspired by Super Mario Bros from 1990s.
+
+With this game, i learnt level design, sound design and i improved my basics of Unity and C# scripting.
+
+Demo :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IX_3WUophpM?si=zmNSkIV9vGoHyANJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
