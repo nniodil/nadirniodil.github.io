@@ -5,8 +5,8 @@ img: /nadirniodil.github.io/assets/Brick-breaker.jpg
 description: |
 
 tags:
-  - Level Design
-  - Game Developement
+  - 
+ 
   
 ---
 Personal Project\
