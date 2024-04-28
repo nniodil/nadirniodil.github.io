@@ -6,10 +6,6 @@ description: |
 
 <p>Personal Project <br> Duration : 3 days </p>
 
-
-
-Duration : 2 weeks
-Group : 3 Game Programmers
 ---
 Ceci est le premier jeu que j'ai créer sous Unity. Cela ma permis de faire connaissance avec le langage C# et le moteur Unity. 
 <br>
