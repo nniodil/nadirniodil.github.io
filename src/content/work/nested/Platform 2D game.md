@@ -3,9 +3,6 @@ title: Platform 2D Game
 publishDate: 2023-10-02 00:00:00
 img: /nadirniodil.github.io/assets/Platform-2D-game.jpg
 description: |
-tags:
-  - Level Design
-  - Game Developement
   
 ---
 
