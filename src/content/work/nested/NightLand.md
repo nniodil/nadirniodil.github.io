@@ -14,7 +14,8 @@ Source Code : https://github.com/nniodil/NightLand/tree/main/Scripts
 
 Download Link : https://nadirio.itch.io/nightland
 
-Demo is down Below.
+Demo :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8mtr0HC-uMA?si=k8ZZtAx6wNyzOJhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Project Overview:
 
@@ -61,6 +62,3 @@ Debugging:
 - Utilized ChatGPT and Unity documentation to understand and resolve code errors, enhancing my debugging skills and ability to solve problems independently.
 
 I did not create Assets other than the map layout.
-
-Demo :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8mtr0HC-uMA?si=k8ZZtAx6wNyzOJhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
