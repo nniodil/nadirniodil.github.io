@@ -39,6 +39,8 @@ Problem Solving:
 - Debugging and Optimization: Applied advanced debugging techniques to solve complex issues and ensure smooth gameplay.
 - Independent Learning and Implementation: Successfully implemented all game features without external help, demonstrating strong problem-solving skills and self-reliance.
 
+I did not create Assets.
+
 Demo :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HvjrpnqXPBg?si=sGtnjAIr5JGVugXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
