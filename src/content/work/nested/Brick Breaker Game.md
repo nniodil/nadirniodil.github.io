@@ -19,24 +19,24 @@ Unity Editor:
 - Navigation: Gained proficiency in navigating the Unity Editor, including the Scene view, Game view, Hierarchy, Inspector, and Project window.
 - Components: Understood how components work, how to add them to GameObjects, and how to configure their properties.
 
-Asset Management:\
-- Importing Assets: Learned how to import and manage assets such as sprites, sounds, and prefabs.\
-- UI Elements: Created and customized UI elements like buttons, text, and panels to enhance user experience.\
+Asset Management:
+- Importing Assets: Learned how to import and manage assets such as sprites, sounds, and prefabs.
+- UI Elements: Created and customized UI elements like buttons, text, and panels to enhance user experience.
 
-Level Design:\
+Level Design:
 - Basic Level Design: Designed and implemented multiple levels, placing bricks, defining layouts, and adjusting difficulty levels.
 
-Scripting:\
-- Transform Manipulation: Used transforms to move, rotate, and scale GameObjects in the game.\
-- Coroutines: Implemented coroutines to handle timed events and manage asynchronous operations.\
-- Physics and Rigidbody: Applied physics principles and used Rigidbody components to control ball movement and collisions.\
+Scripting:
+- Transform Manipulation: Used transforms to move, rotate, and scale GameObjects in the game.
+- Coroutines: Implemented coroutines to handle timed events and manage asynchronous operations.
+- Physics and Rigidbody: Applied physics principles and used Rigidbody components to control ball movement and collisions.
 
-Technical Skills:\
-- C# Programming: Wrote clean and efficient C# scripts to handle game logic, player input, and interactions.\
-- Collision Detection: Implemented collision detection for the ball, paddles, and bricks using Unity's physics system.\
-- Game State Management: Managed game states such as starting, playing, pausing, and game over.\
+Technical Skills:
+- C# Programming: Wrote clean and efficient C# scripts to handle game logic, player input, and interactions.
+- Collision Detection: Implemented collision detection for the ball, paddles, and bricks using Unity's physics system.
+- Game State Management: Managed game states such as starting, playing, pausing, and game over.
 
-Problem Solving:\
+Problem Solving:
 - Debugging: Utilized Unity's debugging tools(Debug.Log) to troubleshoot and resolve issues in the game.
 
 
