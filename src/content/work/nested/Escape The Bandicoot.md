@@ -1,7 +1,8 @@
 ﻿---
 title: Escape The Bandicoot
 publishDate: 2024-05-29 00:00:00
-img: /nadirniodil.github.io/assets/Brick-breaker.jpg
+img: /nadirniodil.github.io/assets/EscapeTheBandicoot.PNG
+
 description: |
    
  
