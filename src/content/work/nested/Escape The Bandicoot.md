@@ -1,5 +1,5 @@
 ﻿---
-title: Brick Breaker Game
+title: Escape The Bandicoot
 publishDate: 2024-05-29 00:00:00
 img: /nadirniodil.github.io/assets/Brick-breaker.jpg
 description: |
@@ -8,41 +8,37 @@ description: |
   
 ---
 Personal Project\
-Duration : 3 days
+Duration : 8 days
 
-This is a classic remade of the game Brick breaker from 1990s.
+Project Overview:
+I developed a 3-level platformer game inspired by Crash Bandicoot. This project allowed me to consolidate and apply the skills I learned from the Unity Essentials (12 hours) and Unity Junior Programmer Pathway (35 hours) courses.
 
-Skills and Knowledge Acquired:
+Courses Completed:
+- Unity Essentials: Covered the basics of Unity, including the interface, basic scripting, and simple game mechanics.
+- Unity Junior Programmer Pathway: Provided an in-depth understanding of C# programming in Unity, including more advanced game mechanics and problem-solving techniques.
 
-Unity Editor:
-- Project Creation: Learned how to start a new project, configure project settings, and organize project files.
-- Navigation: Gained proficiency in navigating the Unity Editor, including the Scene view, Game view, Hierarchy, Inspector, and Project window.
-- Components: Understood how components work, how to add them to GameObjects, and how to configure their properties.
+Skills and Knowledge Applied:
 
-Asset Management:
-- Importing Assets: Learned how to import and manage assets such as sprites, sounds, and prefabs.
-- UI Elements: Created and customized UI elements like buttons, text, and panels to enhance user experience.
+Enhanced Unity Skills:
+- Advanced Level Design: Designed three unique levels with increasing difficulty, incorporating various obstacles and collectibles.
+- ProBuilder: Utilized the ProBuilder tool to create detailed and varied level environments efficiently.
+- Animator: Created and implemented animations for character movements and interactions using Unity's Animator.
 
-Level Design:
-- Basic Level Design: Designed and implemented multiple levels, placing bricks, defining layouts, and adjusting difficulty levels.
-
-Scripting:
-- Transform Manipulation: Used transforms to move, rotate, and scale GameObjects in the game.
-- Coroutines: Implemented coroutines to handle timed events and manage asynchronous operations.
-- Physics and Rigidbody: Applied physics principles and used Rigidbody components to control ball movement and collisions.
+Game Mechanics:
+- Character Movement and Control: Implemented responsive character controls, including running, jumping, and interacting with the environment.
+- Checkpoint and Respawn Systems: Implemented checkpoints and respawn mechanics to enhance gameplay flow.
+- Collectibles and Scoring: Created a scoring system that tracks player progress and rewards collecting items throughout the levels.
 
 Technical Skills:
-- C# Programming: Wrote clean and efficient C# scripts to handle game logic, player input, and interactions.
-- Collision Detection: Implemented collision detection for the ball, paddles, and bricks using Unity's physics system.
-- Game State Management: Managed game states such as starting, playing, pausing, and game over.
+- C# Programming: Wrote and optimized scripts to handle game mechanics, player controls, and interactions without external assistance.
+- Physics and Collision Detection: Improved understanding of Unity's physics system to handle interactions between the player and environment.
+- User Interface: Designed and implemented UI elements to display player progress and level completion status.
 
 Problem Solving:
-- Debugging: Utilized Unity's debugging tools(Debug.Log) to troubleshoot and resolve issues in the game.
-
-I did not create Assets.
-
+- Debugging and Optimization: Applied advanced debugging techniques to solve complex issues and ensure smooth gameplay.
+- Independent Learning and Implementation: Successfully implemented all game features without external help, demonstrating strong problem-solving skills and self-reliance.
 
 Demo :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SZH8ALFxjts?si=J_Lhazrrh-RH6Cdx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HvjrpnqXPBg?si=sGtnjAIr5JGVugXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Web Browser Playable Link : https://nadirio.itch.io/brick-breaker-game
+Web Browser Playable Link : https://nadirio.itch.io/escape-the-bandicoot
