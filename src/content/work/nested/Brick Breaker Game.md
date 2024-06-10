@@ -14,10 +14,10 @@ This is a classic remade of the game Brick breaker from 1990s.
 
 Skills and Knowledge Acquired:
 
-Unity Editor:\
-- Project Creation: Learned how to start a new project, configure project settings, and organize project files.\
-- Navigation: Gained proficiency in navigating the Unity Editor, including the Scene view, Game view, Hierarchy, Inspector, and Project window.\
-- Components: Understood how components work, how to add them to GameObjects, and how to configure their properties.\
+Unity Editor:
+- Project Creation: Learned how to start a new project, configure project settings, and organize project files.
+- Navigation: Gained proficiency in navigating the Unity Editor, including the Scene view, Game view, Hierarchy, Inspector, and Project window.
+- Components: Understood how components work, how to add them to GameObjects, and how to configure their properties.
 
 Asset Management:\
 - Importing Assets: Learned how to import and manage assets such as sprites, sounds, and prefabs.\
