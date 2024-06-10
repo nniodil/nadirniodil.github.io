@@ -9,6 +9,7 @@ Personal Project\
 Duration : 7 days
 
 Project Overview:
+
 I developed a 2D platformer game inspired by Super Mario Bros, featuring five unique levels. This project allowed me to build upon the skills I acquired in my previous project while learning new tools and techniques.
 
 Skills and Knowledge Acquired:
