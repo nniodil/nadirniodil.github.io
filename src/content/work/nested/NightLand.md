@@ -4,44 +4,57 @@ publishDate: 2024-06-08 00:00:00
 img: /nadirniodil.github.io/assets/NightLand.PNG
 
 description: |
-   
- 
-  
+
 ---
 Personal Project\
 Duration : 1 month and 1 week
 
 Project Overview:
-I developed a 3-level platformer game inspired by Crash Bandicoot. This project allowed me to consolidate and apply the skills I learned from the Unity Essentials (12 hours) and Unity Junior Programmer Pathway (35 hours) courses.
-
-Courses Completed:
-- Unity Essentials: Covered the basics of Unity, including the interface, basic scripting, and simple game mechanics.
-- Unity Junior Programmer Pathway: Provided an in-depth understanding of C# programming in Unity, including more advanced game mechanics and problem-solving techniques.
+Nightland is a first-person shooter (FPS) zombie survival game inspired by Call of Duty's zombie mode. 
+This project demonstrates my ability to design, develop, and implement complex gameplay systems and mechanics, providing an immersive and challenging experience for players.
 
 Skills and Knowledge Applied:
 
-Enhanced Unity Skills:
-- Advanced Level Design: Designed three unique levels with increasing difficulty, incorporating various obstacles and collectibles.
-- ProBuilder: Utilized the ProBuilder tool to create detailed and varied level environments efficiently.
-- Animator: Created and implemented animations for character movements and interactions using Unity's Animator.
+Advanced Gameplay Mechanics:
+- First-Person Shooter View: Implemented a responsive FPS camera and controls, offering a smooth and immersive player experience.
+- Weapon Systems: Developed mechanics for wall-mounted weapons that players can purchase. Implemented aiming, reloading, and weapon switching functionalities, ensuring a dynamic combat experience.
 
-Game Mechanics:
-- Character Movement and Control: Implemented responsive character controls, including running, jumping, and interacting with the environment.
-- Checkpoint and Respawn Systems: Implemented checkpoints and respawn mechanics to enhance gameplay flow.
-- Collectibles and Scoring: Created a scoring system that tracks player progress and rewards collecting items throughout the levels.
+Zombie AI:
+- Coded intelligent enemy behaviors, including spawning, pathfinding, and attack patterns.
+- Developed attack animations triggered when zombies are in close proximity to the player.
+- Implemented different audio cues for zombies when they run or attack, enhancing the immersive atmosphere.
+
+Round System:
+- Created a system to manage zombie waves, increasing health as rounds progress to increase difficulty, challenging players to adapt their strategies.
+- Health and Damage System: Implemented a robust health management system for the player, including damage over time and healing mechanics based on in-game items and actions.
+
+Point System:
+- Designed a point system where players earn points for killing zombies and can spend points on weapons, doors, and other in-game items.
+
+Buyable Ending:
+- Developed an endgame mechanic where players can purchase an ending to complete the game, adding a strategic goal.
+- Restart System:
+- Implemented a restart system that resets the game upon player death, encouraging replayability.
 
 Technical Skills:
-- C# Programming: Wrote and optimized scripts to handle game mechanics, player controls, and interactions without external assistance.
-- Physics and Collision Detection: Improved understanding of Unity's physics system to handle interactions between the player and environment.
-- User Interface: Designed and implemented UI elements to display player progress and level completion status.
 
-Problem Solving:
-- Debugging and Optimization: Applied advanced debugging techniques to solve complex issues and ensure smooth gameplay.
-- Independent Learning and Implementation: Successfully implemented all game features without external help, demonstrating strong problem-solving skills and self-reliance.
+ProBuilder and Blender:
+- Used ProBuilder to design the base map layout and Blender to create detailed window assets, learning and applying new software skills.
 
-I did not create Assets.
+Map Design:
+- Utilized ProBuilder for detailed level design, ensuring a well-structured and engaging game environment.
+
+Script Optimization:
+- Improved coding efficiency and performance through script optimization techniques, ensuring smooth gameplay.
+- Independent Implementation:
+- Successfully implemented complex game mechanics and systems independently, demonstrating strong problem-solving skills and self-reliance.
+
+Debugging:
+- Utilized ChatGPT and Unity documentation to understand and resolve code errors, enhancing my debugging skills and ability to solve problems independently.
+
+I did not create Assets other than the map layout.
 
 Demo :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HvjrpnqXPBg?si=sGtnjAIr5JGVugXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8mtr0HC-uMA?si=k8ZZtAx6wNyzOJhu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Download Link : https://nadirio.itch.io/nightland
