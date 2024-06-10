@@ -5,11 +5,16 @@ img: /nadirniodil.github.io/assets/EscapeTheBandicoot.PNG
 
 description: |
    
- 
-  
 ---
 Personal Project\
+
 Duration : 8 days
+
+Source Code : https://github.com/nniodil/Escape_the_bandicoot/tree/main/Scripts
+
+Web Browser Playable Link : https://nadirio.itch.io/escape-the-bandicoot
+
+Demo is Down Below
 
 Project Overview:
 
@@ -44,5 +49,3 @@ I did not create Assets.
 
 Demo :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HvjrpnqXPBg?si=sGtnjAIr5JGVugXM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Web Browser Playable Link : https://nadirio.itch.io/escape-the-bandicoot
