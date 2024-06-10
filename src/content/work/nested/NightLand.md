@@ -6,7 +6,7 @@ img: /nadirniodil.github.io/assets/NightLand.PNG
 description: |
 
 ---
-Personal Project\
+Personal Project
 
 Duration : 1 month and 1 week
 
