@@ -9,8 +9,11 @@ description: |
 ---
 Personal Project\
 Duration : 3 days
+
 Source Code : https://github.com/nniodil/BrickBreakerGame/tree/main/Scripts
+
 Web Browser Playable Link : https://nadirio.itch.io/brick-breaker-game
+
 Demo is down below.
 
 This is a classic remade of the game Brick breaker from 1990s.
