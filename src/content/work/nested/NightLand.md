@@ -9,7 +9,7 @@ description: |
 Personal Project\
 Duration : 1 month and 1 week
 
-Project Overview:
+Project Overview:\
 Nightland is a first-person shooter (FPS) zombie survival game inspired by Call of Duty's zombie mode. 
 This project demonstrates my ability to design, develop, and implement complex gameplay systems and mechanics, providing an immersive and challenging experience for players.
 
