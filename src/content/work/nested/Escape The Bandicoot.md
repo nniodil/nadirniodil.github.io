@@ -12,6 +12,7 @@ Personal Project\
 Duration : 8 days
 
 Project Overview:
+
 I developed a 3-level platformer game inspired by Crash Bandicoot. This project allowed me to consolidate and apply the skills I learned from the Unity Essentials (12 hours) and Unity Junior Programmer Pathway (35 hours) courses.
 
 Courses Completed:
