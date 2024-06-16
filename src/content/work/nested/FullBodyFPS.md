@@ -37,7 +37,8 @@ Gravity and Jump Mechanics:
 
 - Engineered gravity and jump force calculations to simulate realistic vertical movement.
 - Implemented jump animations synchronized with player input and environmental constraints.
-- Crouch and Slide Systems:
+
+Crouch and Slide Systems:
 
 - Developed crouch and slide mechanics, allowing players to adjust character height and perform dynamic slides through terrain.
 - Programmed smooth transitions between crouch, slide, and standing positions for fluid gameplay.
@@ -48,7 +49,8 @@ Camera and Player Positioning:
 
 - Implemented a responsive first-person camera system with adjustable sensitivity for smooth camera movement.
 - Integrated visual feedback mechanisms, including character model rotations and position adjustments based on player actions.
-- Technical Skills:
+
+Technical Skills:
 
 Unity Engine Proficiency:
 
