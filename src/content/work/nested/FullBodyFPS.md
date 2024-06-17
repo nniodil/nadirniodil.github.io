@@ -13,7 +13,7 @@ Duration : 10 days
 Source Code : https://github.com/nniodil/Full_Body_FPS/blob/main/Scripts/PlayerController.cs
 
 Demo :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8qVNKJzsGu4?si=bIJWdpieKCaQzV1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JyROdOc8lns?si=krTV_rOdoeYBde9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Project Overview:
 
