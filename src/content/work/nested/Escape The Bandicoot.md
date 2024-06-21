@@ -45,6 +45,5 @@ Technical Skills:
 
 Problem Solving:
 - Debugging and Optimization: Applied advanced debugging techniques to solve complex issues and ensure smooth gameplay.
-- Independent Learning and Implementation: Successfully implemented all game features without external help, demonstrating strong problem-solving skills and self-reliance.
-
+  
 I did not create Assets.
