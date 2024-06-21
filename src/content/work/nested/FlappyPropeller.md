@@ -12,9 +12,10 @@ Duration : 2 days
 
 Source Code : https://github.com/nniodil/Flappy-Propeller/tree/main/Scripts
 
-Demo :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JyROdOc8lns?si=krTV_rOdoeYBde9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Web Browser Playable : https://nadirio.itch.io/flappy-propeller
 
+Demo :
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DrdDjvreet4?si=_uRLJLdnniPupJeR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Project Overview:
 Developed a fully functional clone of Flappy Bird in just two days, demonstrating a solid understanding of basic game development principles and efficient problem-solving skills.
 
