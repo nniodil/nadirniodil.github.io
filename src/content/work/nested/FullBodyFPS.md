@@ -61,10 +61,4 @@ Unity Engine Proficiency:
  - Conducted rigorous testing and debugging to ensure robust gameplay mechanics and performance optimization.
  - Implemented script optimizations to maintain consistent frame rates and responsive player controls.
 
-Independent Development:
-
-Solo Implementation:
-- Independently designed and implemented all gameplay mechanics and systems showcased in the prototype.
-- Demonstrated strong problem-solving skills and self-reliance in overcoming development challenges.
-
 I did not create Assets.
