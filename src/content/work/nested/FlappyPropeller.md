@@ -1,7 +1,7 @@
 ---
 title: Flappy Propeller
 publishDate: 2024-06-21 00:00:00
-img: /nadirniodil.github.io/assets/FPS.PNG
+img: /nadirniodil.github.io/assets/CaptureFlappy.PNG
 
 description: |
 
@@ -10,7 +10,7 @@ Personal Project
 
 Duration : 2 days
 
-Source Code : https://github.com/nniodil/Full_Body_FPS/blob/main/Scripts/PlayerController.cs
+Source Code : https://github.com/nniodil/Flappy-Propeller/tree/main/Scripts
 
 Demo :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JyROdOc8lns?si=krTV_rOdoeYBde9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
