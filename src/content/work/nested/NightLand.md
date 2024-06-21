@@ -58,7 +58,4 @@ Script Optimization:
 - Independent Implementation:
 - Successfully implemented complex game mechanics and systems independently, demonstrating strong problem-solving skills and self-reliance.
 
-Debugging:
-- Utilized ChatGPT and Unity documentation to understand and resolve code errors, enhancing my debugging skills and ability to solve problems independently.
-
 I did not create Assets other than the map layout.
