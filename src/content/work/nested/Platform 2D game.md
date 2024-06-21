@@ -13,7 +13,7 @@ Source Code : https://github.com/nniodil/Platform2DGame/tree/main/Scripts
 
 Web Browser Playable Link : https://nadirio.itch.io/platform-2d-game
 
-Demo :
+Gameplay :
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IX_3WUophpM?si=zmNSkIV9vGoHyANJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Project Overview:
