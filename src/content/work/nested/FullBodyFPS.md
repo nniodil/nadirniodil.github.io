@@ -1,6 +1,6 @@
 ---
 title: Full Body FPS
-publishDate: 2024-06-18 00:00:00
+publishDate: 2024-06-20 00:00:00
 img: /nadirniodil.github.io/assets/FPS.PNG
 
 description: |
