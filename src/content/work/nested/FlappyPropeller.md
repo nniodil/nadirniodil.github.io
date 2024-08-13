@@ -1,6 +1,6 @@
 ---
 title: Flappy Propeller
-publishDate: 2024-06-21 00:00:00
+publishDate: 2024-06-14 00:00:00
 img: /nadirniodil.github.io/assets/CaptureFlappy.PNG
 
 description: |
